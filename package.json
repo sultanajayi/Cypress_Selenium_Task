@@ -1,0 +1,22 @@
+{
+  "name": "cypress_selenium_task",
+  "version": "1.0.0",
+  "description": "Cypress/Selenium Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sultanajayi/Cypress_Selenium_Task.git"
+  },
+  "author": "Sultan Ajayi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sultanajayi/Cypress_Selenium_Task/issues"
+  },
+  "homepage": "https://github.com/sultanajayi/Cypress_Selenium_Task#readme",
+  "devDependencies": {
+    "cypress": "^13.12.0"
+  }
+}
