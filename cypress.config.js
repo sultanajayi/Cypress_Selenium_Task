@@ -2,7 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: '',
+    baseUrl: '/',
     defaultCommandTimeout: 10000,
     experimentalWebKitSupport: true,
     experimentalRunAllSpecs: true,
